@@ -2,6 +2,7 @@
 
 A curated list of papers on AI by Science, for Science and to Science.
 
+If you like this list, you might also like [this list](https://github.com/jennyzzt/awesome-open-ended).
 ## Table of Contents
 
 - [Automated Science Discovery (ASD)](#automated-science-discovery-asd)
