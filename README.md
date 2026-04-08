@@ -66,6 +66,12 @@ If you like this list, you might also like [this list](https://github.com/jennyz
 	*Brenner, M. P., Cohen-Addad, V., & Woodruff, D.* <br>
 	arXiv, 2026. [[Paper]](http://arxiv.org/abs/2603.04735)
 
+### Biological Sciences
+
+- **Scientists' Perspectives on the Potential for Generative AI in their Fields** 
+	*Morris, M.R..* 
+	arXiv, 2023. [[Paper]](https://arxiv.org/abs/2304.01420)
+
 ## Science of Science (Sci4Sci)
 
 - **PreScience: A Benchmark for Forecasting Scientific Contributions** <br>
